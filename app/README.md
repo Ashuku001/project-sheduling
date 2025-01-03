@@ -19,3 +19,9 @@ python main.py
 ```bash
 piccolo tester run
 ```
+### Database sync
+
+```bash
+alembic revision --autogenerate -m "<message>"
+alembic upgrade head         
+```

@@ -1,16 +1,15 @@
 import uuid
-from sqlalchemy import Column, String, Float, Date, ForeignKey
+from sqlalchemy import Column, String, Float, Date, ForeignKey, Enum
 from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy.orm import relationship
 from config.db import Base
 import enum
-from sqlalchemy import Enum
 
 # Define an Enum class using Python's enum module
 class ActivityStatus(enum.Enum):
-    pending = "pending"
-    active = "active"
-    completed = "completed"
+    PENDING = "PENDING"
+    ACTIVE = "ACTIVE"
+    COMPLETED = "COMPLETED"
     
 class Foreman(Base):
     __tablename__ = "foreman"
@@ -29,10 +28,10 @@ class Activity(Base):
     name = Column(String(255), nullable=False)
     description = Column(String(500), nullable=True)
 
-    duration = Column(Float, nullable=False)
+    duration = Column(Float, nullable=True)
     start_date = Column(Date, nullable=True)
     end_date = Column(Date, nullable=True)
-    status = Column(Enum(ActivityStatus), nullable=False, default=ActivityStatus.pending)
+    status = Column(String(50), Enum(ActivityStatus), default=ActivityStatus.PENDING)
 
     foreman_id = Column(UUID(as_uuid=True), ForeignKey("foreman.id"), nullable=True)
 
@@ -46,8 +45,8 @@ class Material(Base):
     id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     name = Column(String(255), nullable=False)
     description = Column(String(500))
-    unit_of_measure = Column(String(50), nullable=False)
-    unit_cost = Column(Float, nullable=False)
+    unit = Column(String(50), nullable=False)
+    cost_per_unit = Column(Float, nullable=False)
 
     inventories = relationship("Inventory", back_populates="material")
     material_assignments = relationship("MaterialAssignment", back_populates="material")
@@ -59,7 +58,7 @@ class Inventory(Base):
     id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     material_id = Column(UUID(as_uuid=True), ForeignKey("material.id"), nullable=False)
     quantity_in_stock = Column(Float, nullable=False)
-    quantity_used = Column(Float, nullable=False)
+    threshold = Column(Float, nullable=False)
 
     material = relationship("Material", back_populates="inventories")
 
@@ -71,7 +70,6 @@ class MaterialAssignment(Base):
     activity_id = Column(UUID(as_uuid=True), ForeignKey("activity.id"), nullable=False)
     material_id = Column(UUID(as_uuid=True), ForeignKey("material.id"), nullable=False)
     quantity_assigned = Column(Float, nullable=False)
-    quantity_used = Column(Float, nullable=False)
     date_assigned = Column(Date, nullable=False)
 
     activity = relationship("Activity", back_populates="material_assignments")
