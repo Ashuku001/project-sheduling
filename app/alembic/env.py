@@ -11,8 +11,6 @@ from config.db import Base, DB_URL
 from inventory.models import Foreman, Activity, Material, Inventory, MaterialAssignment
 
 
-print("DB_URL",DB_URL, Base.metadata.tables.keys())
-
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
 config = context.config
