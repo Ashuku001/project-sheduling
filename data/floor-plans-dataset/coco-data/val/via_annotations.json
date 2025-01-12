@@ -1,0 +1,921 @@
+{
+  "10.png2154000": {
+    "fileref": "",
+    "size": 2154000,
+    "filename": "10.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            410,
+            487,
+            487,
+            484,
+            480,
+            469,
+            460,
+            446,
+            431,
+            413,
+            410
+          ],
+          "all_points_y": [
+            733,
+            734,
+            741,
+            756,
+            767,
+            781,
+            789,
+            794,
+            795,
+            795,
+            734
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "Ia_BN0601_sommaire.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "Ia_BN0601_sommaire.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            459,
+            459,
+            464,
+            473,
+            482,
+            489,
+            495,
+            499,
+            503,
+            504,
+            508,
+            509,
+            507,
+            460
+          ],
+          "all_points_y": [
+            704,
+            747,
+            747,
+            747,
+            746,
+            742,
+            737,
+            732,
+            727,
+            721,
+            713,
+            706,
+            701,
+            703
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "Ib_CU1001_sommaire.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "Ib_CU1001_sommaire.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            632,
+            631,
+            628,
+            599,
+            598,
+            666,
+            666,
+            655,
+            632,
+            631
+          ],
+          "all_points_y": [
+            1054,
+            1050,
+            1047,
+            1062,
+            1085,
+            1085,
+            1064,
+            1056,
+            1046,
+            1052
+          ]
+        },
+        "region_attributes": {
+          "category": "window"
+        }
+      }
+    }
+  },
+  "Ic_AA1001_sommaire.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "Ic_AA1001_sommaire.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            177,
+            194,
+            201,
+            202,
+            203,
+            199,
+            193,
+            188,
+            176,
+            176
+          ],
+          "all_points_y": [
+            582,
+            580,
+            587,
+            593,
+            606,
+            612,
+            615,
+            616,
+            614,
+            582
+          ]
+        },
+        "region_attributes": {
+          "category": "ceramic sink"
+        }
+      }
+    }
+  },
+  "Ic_RE0503_sommaire.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "Ic_RE0503_sommaire.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            282,
+            306,
+            322,
+            314,
+            321,
+            321,
+            305,
+            284,
+            283
+          ],
+          "all_points_y": [
+            532,
+            534,
+            564,
+            567,
+            569,
+            570,
+            600,
+            600,
+            532
+          ]
+        },
+        "region_attributes": {
+          "category": "window"
+        }
+      }
+    }
+  },
+  "IIa_AP3401.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IIa_AP3401.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            423,
+            385,
+            385,
+            387,
+            388,
+            389,
+            391,
+            420,
+            422
+          ],
+          "all_points_y": [
+            83,
+            81,
+            100,
+            100,
+            109,
+            112,
+            116,
+            100,
+            87
+          ]
+        },
+        "region_attributes": {
+          "category": "window"
+        }
+      }
+    }
+  },
+  "IIa_CA0701.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IIa_CA0701.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            317,
+            351,
+            350,
+            350,
+            317,
+            315
+          ],
+          "all_points_y": [
+            702,
+            702,
+            741,
+            744,
+            745,
+            705
+          ]
+        },
+        "region_attributes": {
+          "category": "ceramic sink"
+        }
+      }
+    }
+  },
+  "IIa_CN0603.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IIa_CN0603.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            409,
+            409,
+            407,
+            407,
+            405,
+            401,
+            391,
+            387,
+            386,
+            386,
+            385,
+            384,
+            385
+          ],
+          "all_points_y": [
+            527,
+            536,
+            539,
+            547,
+            555,
+            559,
+            560,
+            554,
+            548,
+            542,
+            535,
+            533,
+            527
+          ]
+        },
+        "region_attributes": {
+          "category": "toilet"
+        }
+      }
+    }
+  },
+  "IIa_DL0701.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IIa_DL0701.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            518,
+            579,
+            578,
+            571,
+            560,
+            538,
+            514,
+            513
+          ],
+          "all_points_y": [
+            518,
+            519,
+            531,
+            549,
+            558,
+            566,
+            565,
+            515
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "IIa_GL0401.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IIa_GL0401.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            253,
+            295,
+            295,
+            298,
+            297,
+            292,
+            292,
+            286,
+            275,
+            266,
+            259,
+            255,
+            255,
+            250,
+            250,
+            252,
+            252
+          ],
+          "all_points_y": [
+            666,
+            667,
+            656,
+            656,
+            652,
+            651,
+            618,
+            619,
+            623,
+            630,
+            638,
+            647,
+            651,
+            651,
+            655,
+            656,
+            666
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "IIa_MN0601.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IIa_MN0601.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            431,
+            431,
+            398,
+            398,
+            432
+          ],
+          "all_points_y": [
+            230,
+            252,
+            251,
+            228,
+            230
+          ]
+        },
+        "region_attributes": {
+          "category": "window"
+        }
+      }
+    }
+  },
+  "IIa_TB0401.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IIa_TB0401.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            523,
+            523,
+            518,
+            518,
+            509,
+            499,
+            493,
+            488,
+            485,
+            482,
+            482,
+            518,
+            518,
+            523
+          ],
+          "all_points_y": [
+            413,
+            455,
+            455,
+            454,
+            453,
+            449,
+            444,
+            438,
+            432,
+            426,
+            415,
+            415,
+            412,
+            412
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "IIa_TZ0601.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IIa_TZ0601.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            417,
+            437,
+            437,
+            478,
+            477,
+            473,
+            470,
+            466,
+            462,
+            457,
+            452,
+            446,
+            441,
+            436,
+            435,
+            417
+          ],
+          "all_points_y": [
+            819,
+            820,
+            821,
+            820,
+            829,
+            840,
+            846,
+            851,
+            855,
+            858,
+            861,
+            862,
+            863,
+            863,
+            865,
+            864
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "IId_AD0801.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IId_AD0801.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            403,
+            403,
+            418,
+            418,
+            404
+          ],
+          "all_points_y": [
+            456,
+            490,
+            490,
+            457,
+            457
+          ]
+        },
+        "region_attributes": {
+          "category": "window"
+        }
+      }
+    }
+  },
+  "IId_PL0720.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "IId_PL0720.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            300,
+            300,
+            343,
+            343,
+            341,
+            341,
+            335,
+            319,
+            309,
+            304,
+            302,
+            302
+          ],
+          "all_points_y": [
+            721,
+            725,
+            725,
+            721,
+            721,
+            684,
+            684,
+            689,
+            699,
+            708,
+            717,
+            721
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "image002.png1728000": {
+    "fileref": "",
+    "size": 1728000,
+    "filename": "image002.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            498,
+            498,
+            503,
+            503,
+            538,
+            538,
+            536,
+            524,
+            504,
+            504,
+            497
+          ],
+          "all_points_y": [
+            503,
+            542,
+            542,
+            540,
+            541,
+            534,
+            523,
+            509,
+            504,
+            503,
+            502
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "image022.png1728000": {
+    "fileref": "",
+    "size": 1728000,
+    "filename": "image022.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            519,
+            520,
+            512,
+            511,
+            495,
+            485,
+            480,
+            479,
+            479,
+            514,
+            514
+          ],
+          "all_points_y": [
+            581,
+            623,
+            624,
+            622,
+            617,
+            606,
+            596,
+            591,
+            585,
+            584,
+            583
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "image023.png1728000": {
+    "fileref": "",
+    "size": 1728000,
+    "filename": "image023.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            826,
+            825,
+            810,
+            791,
+            782,
+            779,
+            776,
+            776,
+            829,
+            828
+          ],
+          "all_points_y": [
+            467,
+            510,
+            507,
+            494,
+            479,
+            466,
+            466,
+            463,
+            461,
+            468
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "image028.png1728000": {
+    "fileref": "",
+    "size": 1728000,
+    "filename": "image028.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            763,
+            763,
+            771,
+            782,
+            793,
+            800,
+            806,
+            808,
+            808,
+            811,
+            811,
+            758,
+            759
+          ],
+          "all_points_y": [
+            875,
+            916,
+            916,
+            913,
+            906,
+            899,
+            888,
+            877,
+            874,
+            874,
+            866,
+            866,
+            875
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "Z-Ib_LT0702_sommaire.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "Z-Ib_LT0702_sommaire.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            553,
+            553,
+            557,
+            563,
+            569,
+            574,
+            580,
+            585,
+            589,
+            591,
+            594,
+            594,
+            594,
+            596,
+            596,
+            550,
+            550,
+            550,
+            553
+          ],
+          "all_points_y": [
+            239,
+            279,
+            279,
+            278,
+            277,
+            274,
+            269,
+            264,
+            259,
+            253,
+            246,
+            242,
+            239,
+            239,
+            221,
+            221,
+            238,
+            239,
+            239
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "Z-IIa_BN0802.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "Z-IIa_BN0802.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            436,
+            437,
+            448,
+            457,
+            465,
+            470,
+            474,
+            474,
+            477,
+            477,
+            434,
+            434
+          ],
+          "all_points_y": [
+            642,
+            653,
+            668,
+            675,
+            678,
+            678,
+            678,
+            642,
+            642,
+            638,
+            638,
+            642
+          ]
+        },
+        "region_attributes": {
+          "category": "door"
+        }
+      }
+    }
+  },
+  "Z-IIa_GZ0501.png1590000": {
+    "fileref": "",
+    "size": 1590000,
+    "filename": "Z-IIa_GZ0501.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {}
+  }
+}
